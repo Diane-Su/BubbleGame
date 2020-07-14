@@ -4,6 +4,7 @@ import random
 from os import path
 from pygame.sprite import collide_circle, spritecollide
 # 初始化 initialize
+# test commit
 pygame.init()
 size = width, height = 650, 500
 background_color = (150, 150, 150)
